@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">    
+        <title>Time Table IT-B</title> 
+        
+        <style>
+
+            h3,h4{
+                text-align: center;
+                margin-left: 35px;
+    
+               
+            }
+
+            table, th, td{
+                    border: 2px solid black;
+                    border-collapse: collapse;
+                    }
+            th, td{
+                    padding: 13px;
+                    text-align: center;
+                    }
+             table {
+                     
+                    margin-left: auto;
+                    margin-right: auto;
+                    }
+                 th{
+                    background-color: lightgrey;
+                    }
+                td{ 
+                     
+                    font-weight: bold;
+                    }
+                    td:hover{
+                        background-color:#f5f5f5;
+                    }
+                    
+                caption{
+                    padding: 5px;
+                    font-size: 20px;
+                    word-spacing: 30px;
+                    
+                    }
+                tr:nth-child(odd){
+                        background-color:#f2f2f2;
+                    }
+                    a{
+                        color: black;
+                    text-decoration: none; 
+                    
+                    }
+
+
+        </style>
+
+
+        </head>
+        <body>
+             
+            <div>
+                <h3>KONGU ENGINEERING COLLEGE</h3>
+                <h3>PERUNDURAI</h3>
+                <h4>INFORMATION TECHNOLOGY</h4>
+    
+                <div>
+                    <table width="50%" >  
+                        <caption> Programme:B.Tech   Branch:IT-B  Year:II </caption>
+    
+                    <tr>
+                    <th>DAYS</th>
+                    <th>9.00 AM - 9.45 AM</th>
+                    <th>10.00 AM - 10.45 AM</th>
+                    <th>11.15 AM - 12.00 PM</th>
+                    <th>12.15 PM - 1.00 PM</th>
+                    <th>2.15 PM - 3.00 PM</th>
+                    </tr>
+                    <tr>
+                       <td style="color: red;"><b>MONDAY</b> </td>
+                       <td><a href="https://meet.google.com/lookup/be717saipt" target="_blank">  DBMS </a></td>
+                       <td><a href="https://meet.google.com/lookup/fnfk3x3g4c" target="_blank"> P & S </a></td>
+                       <td><a href="https://meet.google.com/lookup/etg615ddkc" target="_blank"> MPES </a></td>   
+                       <td><a href="https://meet.google.com/lookup/cns2qidajz" target="_blank"> OS </a></td>
+                       <td><a href="https://meet.google.com/lookup/b7bajheft6" target="_blank"> PYT </a></td>
+    
+                   </tr>
+                   <tr>
+                       <td style="color: blueviolet;"><b>TUESDAY</b></td>
+                       <td><a href="https://meet.google.com/lookup/fnfk3x3g4c" target="_blank"> P & S </a></td>
+                       <td><a href="https://meet.google.com/lookup/cvmhwnzbty" target="_blank"> DAA</a></td>
+                       <td><a href="https://meet.google.com/lookup/be717saipt" target="_blank">  DBMS </a></td>
+                       <td colspan="2">PrST-LAB <a href="https://meet.google.com/lookup/c7inuzdpdz" target="_blank"> vijay </a> & <a href="https://meet.google.com/lookup/hz5okhndea" target="_blank"> Vinoth</a></td>
+            
+             
+                   </tr>
+                   <tr>
+                    <td style="color: #f01b90;"><b>WEDNESDAY</b></td>
+                    <td><a href="https://meet.google.com/lookup/b7bajheft6" target="_blank"> PYT </a></td>
+                    <td><a href="https://meet.google.com/lookup/cns2qidajz" target="_blank"> OS </a></td>
+                    <td><a href="https://meet.google.com/lookup/fnfk3x3g4c" target="_blank"> P & S </a></td>
+                    <td><a href="https://meet.google.com/lookup/be717saipt" target="_blank">  DBMS </a></td>
+                    <td><a href="https://meet.google.com/lookup/cvmhwnzbty" target="_blank"> DAA</a></td>
+          
+                </tr>
+                <tr>
+                    <td style="color: rgb(8, 235, 8);"><b>THURSDAY</b></td>
+                    <td><a href="https://meet.google.com/lookup/cvmhwnzbty" target="_blank"> DAA</a></td>
+                    <td><a href="https://meet.google.com/lookup/b7bajheft6" target="_blank"> PYT </a></td>
+                    <td><a href="https://meet.google.com/lookup/be717saipt" target="_blank">  DBMS </a></td>
+                    <td><a href="https://meet.google.com/lookup/etg615ddkc" target="_blank"> MPES </a></td>
+                    <td><a href="https://meet.google.com/lookup/fnfk3x3g4c" target="_blank"> P & S </a></td>
+    
+          
+                </tr>
+                <tr>
+                    <td  style="color: #12c0df;"><b>FRIDAY</b></td>
+                    <td><a href="https://meet.google.com/lookup/cns2qidajz" target="_blank"> OS </a></td>
+                    <td><a href="https://meet.google.com/lookup/etg615ddkc" target="_blank"> MPES </a></td>
+                    <td><a href="https://meet.google.com/lookup/b7bajheft6" target="_blank"> PYT </a></td>
+                    <td><a href="https://meet.google.com/lookup/cvmhwnzbty" target="_blank"> DAA</a></td>
+                     <td><a href="https://meet.google.com/lookup/be717saipt" target="_blank">  DBMS </a></td>
+                </tr> 
+                <tr>
+                    <td style="color: #f56666;"><b>SATURDAY</b></td>
+                    <td><a href="https://meet.google.com/lookup/fnfk3x3g4c" target="_blank"> P & S </a></td>
+                    <td><a href="https://meet.google.com/lookup/b7bajheft6" target="_blank"> PYT </a></td>
+                    <td><a href="https://meet.google.com/lookup/cvmhwnzbty" target="_blank"> DAA</a></td>
+                    <td><a href="https://meet.google.com/lookup/etg615ddkc" target="_blank"> MPES </a></td>
+                    <td><a href="https://meet.google.com/lookup/cns2qidajz" target="_blank"> OS </a></td>
+    
+          
+                </tr>
+               
+                    </table>  
+           
+        </body>
+</html>
