@@ -1,0 +1,45 @@
+
+.container1 {
+  height: 100%;
+  width: 30%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  background:white;
+  box-shadow: 5px 10px 500px rgb(108, 87, 201) inset;
+}
+.container2 {
+  height: 100%;
+  width: 70%;
+  right: 0;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  box-shadow: 5px 10px 500px rgb(90, 133, 82) inset;
+}
+.container2 h2 {
+  font-size: 20px;
+}
+.container1 img {
+ 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  width: 215px;
+}
+.container2 img{
+  margin-left:auto;
+  margin-right: auto;
+  height: 80%;
+  width: 40%;
+}
+.container2 audio{
+  margin-left:auto;
+  margin-right: auto;
+  position:absolute;
+}
